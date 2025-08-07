@@ -59,22 +59,6 @@ pip install -r requirements.txt
 ```
 
 > Ensure you have **Python 3.7+** and **YOLOv8** compatible packages.
-
----
-
-## 🚀 Running the App
-
-### ▶️ Start the Flask Server:
-
-```bash
-python app.py
-```
-
-The web app will be available at:  
-**http://127.0.0.1:5000/**
-
-You should see a live video stream with activity detection overlays.
-
 ---
 
 ## 📦 Model Details
